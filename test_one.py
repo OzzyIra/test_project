@@ -7,3 +7,8 @@ def dd():
 
 dd()
 dd()
+
+def com(x,y):
+    return x*y
+
+print(com(5,85))
